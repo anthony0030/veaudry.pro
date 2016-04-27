@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  background:  url("../IMG/anthony/bg.jpg");
+  background-size: cover;
+  background-position: 0 0;
+  color: white;
+  font-family: helvetica;
+  padding-top: 100px;
+}
+
+
+.img-circle{
+  border-radius: 50%;
+}
