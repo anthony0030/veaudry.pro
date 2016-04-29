@@ -1,0 +1,95 @@
+.img-behance,
+.img-deviantart,
+.img-dribbble,
+.img-facebook,
+.img-github,
+.img-google,
+.img-instagram,
+.img-linkedin,
+.img-pintrest,
+.img-reddit,
+.img-snapchat,
+.img-stumbleupon,
+.img-tumbler,
+.img-twitter,
+.img-yelp,
+.img-youtube,
+.img-vine,
+.img-whatsapp
+{
+  background-image: url('../IMG/social-media-icons.jpg');
+  background-repeat: no-repeat;
+  height: 50px;
+  width: 50px;
+  background-size : 600px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+
+
+
+
+
+.img-behance{background-position: -6px -274px;}
+.img-deviantart{background-position: -56px -274px;}
+.img-dribbble {background-position: -106px -274px;}
+.img-facebook{background-position: -150px -274px;}
+.img-github{background-position: -200px -274px;}
+.img-google{background-position: -250px -274px;}
+.img-instagram{background-position: -6px -320px;}
+.img-linkedin{background-position: -56px -320px;}
+.img-pintrest{background-position: -106px -320px;}
+.img-reddit{background-position: -150px -320px;}
+.img-snapchat{background-position: -200px -320px;}
+.img-stumbleupon{background-position: -250px -320px;}
+.img-tumbler{background-position: -6px -365px;}
+.img-twitter{background-position: -56px -365px;}
+.img-yelp{background-position: -106px -365px;}
+.img-youtube{background-position: -150px -365px;}
+.img-vine{background-position: -200px -365px;}
+.img-whatsapp{background-position: -250px -365px;}
+
+
+
+.star-00,.star-05,.star-10,.star-15,.star-20,.star-25,.star-30,.star-35,.star-40,.star-45,.star-50{
+  background-image: url('../IMG/ratings-large-sprite-r5.gif');
+  background-repeat: no-repeat;
+  height: 35px;
+  width: 200px;
+  background-size : 200px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.star-00{background-position: 0px 0px;}
+.star-05{background-position: 0px -540px;}
+.star-10{background-position: 0px -375px;}
+.star-15{background-position: 0px -575px;}
+.star-20{background-position: 0px -405px;}
+.star-25{background-position: 0px -610px;}
+.star-30{background-position: 0px -440px;}
+.star-35{background-position: 0px -640px;}
+.star-40{background-position: 0px -475px;}
+.star-45{background-position: 0px -675px;}
+.star-50{background-position: 0px -510px;}
+
+
+.skills td{
+	padding: 10px; 
+}
+
+.skills table, th, td {
+   /*border: 1px solid black;*/
+   font-size: 20px;
+   text-align: right;
+}
+
+.signature{
+	width: 200px;
+}
+
+.about-text{
+  margin-right: 100px;
+  max-width: 300px;
+}

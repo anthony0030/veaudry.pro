@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  background:  url("../IMG/anthony/bg.jpg");
+  background: url("../IMG/anthony/bg.jpg");
   background-size: cover;
   background-position: 0 0;
   color: white;
@@ -12,3 +12,40 @@ body{
 .img-circle{
   border-radius: 50%;
 }
+
+.members{
+  margin: 0 auto;
+}
+
+.members td{ 
+  padding: 10px;
+}
+
+.members td a{
+  display: block;
+}
+
+.modal{
+  color: grey;
+}
+
+a:link, a:visited, a:hover, a:active{
+  text-decoration: none;
+} 
+
+.fleft{
+  float:left;
+}
+
+.fright{
+  float: right;
+}
+
+.clr{
+  clear: both;
+}
+
+.no-bt-padding{
+  padding-bottom: 0;
+}
+
