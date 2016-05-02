@@ -27,10 +27,6 @@
 }
 
 
-
-
-
-
 .img-behance{background-position: -6px -274px;}
 .img-deviantart{background-position: -56px -274px;}
 .img-dribbble {background-position: -106px -274px;}
@@ -92,4 +88,23 @@
 .about-text{
   margin-right: 100px;
   max-width: 300px;
+  font-family: 'Playfair Display', serif;
+}
+
+.name{
+  margin: 10px;
+  font-family: cursive-v;
+  font-size: 30px;
+  color: #000;
+}
+
+.signature{
+  font-family: cursive-v;
+  font-size: 45px;
+  color: #000;
+}
+
+.img-body{
+  width: 150px;
+  margin: 40px 20px 0 40px;
 }

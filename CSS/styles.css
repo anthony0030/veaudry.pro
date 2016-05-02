@@ -49,3 +49,7 @@ a:link, a:visited, a:hover, a:active{
   padding-bottom: 0;
 }
 
+@font-face {
+    font-family: cursive-v;
+    src: url(../fonts/AguafinaScript-Regular.ttf);
+}
