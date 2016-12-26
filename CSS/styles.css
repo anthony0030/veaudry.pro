@@ -1,6 +1,8 @@
 body{
   text-align: center;
   background: url("../IMG/anthony/bg.jpg");
+  background-color: black;
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 0;
   color: white;
