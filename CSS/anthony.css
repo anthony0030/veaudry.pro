@@ -26,6 +26,9 @@
   text-decoration: none;
 }
 
+#my_face{
+  height: 150px;
+}
 
 .img-behance{background-position: -6px -274px;}
 .img-deviantart{background-position: -56px -274px;}
