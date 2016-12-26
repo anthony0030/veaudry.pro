@@ -109,3 +109,8 @@
   margin: 40px 20px 0 40px;
 }
 */
+.close{
+  color: black;
+  font-size: 30px;
+  z-index: 999;
+}
